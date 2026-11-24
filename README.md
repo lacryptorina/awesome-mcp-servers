@@ -346,6 +346,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- [Vedetta](https://github.com/lacryptorina/vedetta-mcp) - Pay-per-call market intelligence. 23 tools over stdio (`npx -y vedetta-mcp@2.0.9`). Free `/v1/track-record`; cached feed, snapshot, history, screener, route, and Korra $0.01; 14 live desk tools $0.05. USDC on Base via x402. Registry `com.dethboy/vedetta@2.0.9`. Descriptive research, not financial advice.
 
 <br />
 
